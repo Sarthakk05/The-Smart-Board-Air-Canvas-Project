@@ -1,7 +1,7 @@
 # The-Smart-Board-Air-Canvas-Project
 Computer vision project implemented with OpenCV
-+
-+Ever wanted to draw your imagination by just waiving your finger in air. Here we will know how air canvas allows us to draw our imagination by just waiving our 
+
+Ever wanted to draw your imagination by just waiving your finger in air. Here we will know how air canvas allows us to draw our imagination by just waiving our 
  finger in air.Here a coloured object at tip of finger is used as the marker.
 +
 + The preffered language is python due to its  libraries and easy to use syntax but understanding the basics it can be implemented in by OpenCV language.Here Colour Detection and tracking is used in order to achieve the objective
