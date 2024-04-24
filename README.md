@@ -20,4 +20,7 @@ The preffered language is python due to its  libraries and easy to use syntax bu
 
 6.Finally draw the points stored in array on the frames and canvas .
 
+![Screenshot (784)](https://github.com/Sarthakk05/The-Smart-Board-Air-Canvas-Project/assets/167811089/024c58e6-7bae-4413-89ac-dccfdd3f65c5)
+
+
 
